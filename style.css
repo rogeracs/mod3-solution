@@ -1,0 +1,92 @@
+
+
+
+
+li a{
+  margin-top: 20px;
+   text-align: center;
+}
+
+
+h1{
+  text-align: center;
+  font-family: 'Butterfly Kids', cursive;
+  
+  }
+
+h3{
+  float: right;
+
+
+}
+
+
+
+#ch{
+  background-color: pink;
+  margin-top: -15px;
+    border: 1px solid black;
+    margin-right: -15px;
+    font-family: 'Butterfly Kids', cursive;
+
+}
+
+
+#be{
+  background-color: red;
+  margin-top: -15px;
+  margin-right: -15px;
+    border: 1px solid black;
+    font-family: 'Butterfly Kids', cursive;
+}
+
+
+#su{
+  background-color: yellow;
+  margin-top: -15px;
+  margin-right: -15px;
+    border: 1px solid black;
+    font-family: 'Butterfly Kids', cursive;
+}
+
+
+
+
+
+
+.box h3, .box p{
+  margin-left: 10px 0;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+
+
+
+.box{
+  
+  background-color: gray;
+  border: 1px solid black;
+
+  width: 90%;
+  margin-right: 5%;
+  margin-left: 5%;
+  margin-top: 5%;
+  
+}
+
+
+
+@media screen(max-width: 968px){
+
+  .nav li{
+    color: blue;
+  }
+}
+ 
+
+
+
+
+
+
