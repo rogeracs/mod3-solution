@@ -1,0 +1,42 @@
+.navbar-brand h1 {
+    padding-top: 10px;
+    font-size: 5vw;
+}
+.navbar-brand h1 {
+    font-family: 'Lora', serif;
+    color: blue;
+    font-size: 4vw;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+}
+
+.collapse:not(.show) {
+    display: none;
+}
+
+
+.nav-link{
+  text-align: center;
+}
+
+
+#collapsable-nav a {
+    font-size: 1.2em;
+    padding: 0px;
+}
+#nav-list a {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+
+.section {
+    background-color: #D3D3D3;
+    margin: 30px;
+    padding: 20px;
